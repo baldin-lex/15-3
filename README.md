@@ -273,5 +273,3 @@ primary_version:
 default_algorithm: AES_128
 rotation_period: 2592000s
 ```
-
-2. 
